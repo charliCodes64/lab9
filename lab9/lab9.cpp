@@ -7,7 +7,7 @@
 #include "player.h"
 #include "ghost.h"
 #include "Arrow.h"
- 
+ //Charlton Infinger
  
 int main(void)
 {
